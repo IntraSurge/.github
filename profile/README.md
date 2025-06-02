@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-
 The **IntraSurge** project is an innovative research initiative focused on advancing surgical procedures through intelligent, AI-driven guidance systems. Our aim is to enhance intraoperative anatomy recognition, support surgeons in real time, prevent unnecessary tissue injury, and ultimately improve patient safety.
 
 ### Funding and Collaboration
@@ -22,4 +20,3 @@ Our current research interests include:
 - **Clinical value validation**
 
 These efforts are designed to push the boundaries of computer-aided surgery and deliver tangible benefits to both clinicians and patients.
--->
